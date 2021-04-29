@@ -1,4 +1,18 @@
- {
+ [
+  {
+    "type": "mod_tileset",
+    "compatibility": [
+      "Chibi_Ultica",
+      "MshockXottoplus",
+      "UNDEAD_PEOPLE",
+      "UNDEAD_PEOPLE_BASE",
+      "UNDEAD_PEOPLE_LEGACY",
+      "UlticaShell",
+      "MshockXottoplus12",
+      "MSX++DEAD_PEOPLE",
+      "MXplus12_for_cosmetics"
+    ],
+   {
       "file": "10_xfiles_32x32_22052-22195.png",
       "tiles": [
         { "id": "mon_pink_mist", "fg": 22052, "rotates": false },
