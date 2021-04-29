@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": "mon_pink_mist",
+    "type": "MONSTER",
+    "name": { "str": "Pink Mist" },
+    "description": "A large gaseous creature that looks harmless, but could cause damage if you get too close.",
+    "default_faction": "gas",
+    "species": [ "MIST" ],
+    "volume": "20 ml",
+    "weight": "01 g",
+    "hp": 300,
+    "speed": 200,
+    "material": [ "gas" ],
+    "symbol": "P",
+    "color": "pink",
+    "aggression": 30,
+    "morale": 5,
+    "harvest": "exempt",
+    "fear_triggers": [ "PLAYER_CLOSE" ],
+    "death_function": [ "SMOKEBURST" ],
+    "flags": [ "NO_BREATHE", "POISON" ]
+  }
+]
