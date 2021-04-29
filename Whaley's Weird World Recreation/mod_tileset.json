@@ -12,6 +12,7 @@
       "MSX++DEAD_PEOPLE",
       "MXplus12_for_cosmetics"
     ],
+   "tiles-new": [
    {
       "file": "10_xfiles_32x32_22052-22195.png",
       "tiles": [
@@ -45,6 +46,9 @@
         { "id": "overlay_wielded_bloody_chainsaw_off", "fg": 3649, "rotates": false },
         { "id": "overlay_wielded_bloody_chainsaw_on", "fg": 3468, "rotates": false },
         { "id": "glowing_lighter", "fg": 3602, "bg": 957, "rotates": false }
-      ]
-    },
+         }
+    ]
+  }
+]
+
  
