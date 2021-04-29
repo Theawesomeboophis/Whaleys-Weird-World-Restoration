@@ -19,5 +19,25 @@
     "fear_triggers": [ "PLAYER_CLOSE" ],
     "death_function": [ "SMOKEBURST" ],
     "flags": [ "NO_BREATHE", "POISON" ]
-  }
+  },
+ {
+    "id": "mon_entomber",
+    "type": "MONSTER",
+    "name": { "str": "Entomber" }, { "str_pl": "Entombers" }
+    "description": "This Giant Blob Looks friendly, but do not underestimate it, this is an entomber, it is on the CIA's Most Dangerous Creature List.",
+    "default_faction": "entomber",
+    "species": [ "UNKNOWN" ],
+    "volume": "200 ml",
+    "weight": "100 g",
+    "hp": 28,
+    "speed": 100,
+    "material": [ "flesh" ],
+    "symbol": "e",
+    "color": "red",
+    "aggression": 100,
+    "morale": 6,
+    "harvest": "exempt",
+    "death_function": [ "NORMAL" ],
+    "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON" ]
+  }  
 ]
