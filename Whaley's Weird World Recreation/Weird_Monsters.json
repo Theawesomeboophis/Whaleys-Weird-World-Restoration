@@ -20,7 +20,7 @@
     "death_function": [ "SMOKEBURST" ],
     "flags": [ "NO_BREATHE", "POISON" ]
   },
- {
+  {
     "id": "mon_entomber",
     "type": "MONSTER",
     "name": { "str": "Entomber" },
@@ -39,5 +39,5 @@
     "harvest": "exempt",
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON" ]
-  }  
+  }
 ]
