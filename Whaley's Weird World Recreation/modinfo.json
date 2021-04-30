@@ -4,7 +4,7 @@
     "id": "Weird_World_Boophis",
     "name": "Weird World Recreation",
     "authors": [ "Whaley" ],
-    "maintaners": [ "Theawesomeboophis"],
+    "maintaners": [ "Theawesomeboophis" ],
     "description": "Recreation of Whaley's Weird World, Which adds in cryptids and other weird creatures.",
     "category": "content",
     "dependencies": [ "dda" ]
