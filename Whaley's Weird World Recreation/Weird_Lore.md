@@ -15,7 +15,9 @@ CONTENTS
 6. List Of Strange Events
 
 ALIENS AMONG US
+
 Since the beginning of human civilization, they have been among us, lurking in the shadows, In 1987, a secret division of the CIA was created in an attempt to catalogue and contain them, known as Project Cryptid. In cooperation with the Illuminati, 100s of Cryptids have been captured in CIA labs across new england.
+
 Known Species of Cryptids:
 Reptilians
 Sasquatchs
@@ -25,13 +27,16 @@ Worm Mass
 Greys
 Blood Beasts
 Entombers
+
 Unique Specimens (Only one has been found):
 Mothman (Species Unknown)
 Loch Ness Monster ( Possibly Living Plesiosaur specimen, species disputed)
 Bigfoot ( Rare species of sasquatch)
 
 PROJECT CRYPTID
+
 Special CIA task force trained to catalogue and capture any cryptids they find. Usually armed with assault rifles and wear hazmat suits to avoid contact with The Grey Plague. Since its founding it has captured over 500 individuals from the listed species. The Leaders of the project have never revealed themselves to the general public.
+
 Known Agents:
 Kole Marx (Status: Deceased)
 Rex Uilre (Status: Unknown)
@@ -39,7 +44,9 @@ Bob Sampson (Status: Deceased)
 General John Thornbush (Status: Alive) (Not Operating in New England)
 Mary Violet (Status: Alive) (Location Unknown)
 Librarian Danny Bookworm (Status: Deceased)
+
 Agent Bios:
+
 Kole Marx- Leader of the Bloodbeast Operation, died after a Bloodbeast escaped and killed everyone in his sector. Born: 1946 Known For: Creator of the Bloodbeast
 Rex Uilre- Former Soldier, Hitman, and CIA agent that went rogue after his family was killed in a CIA experiment to clone humans known as the Bloodbeast Operation. Born: 1985
 Bob Sampson- Former Construction worker and Project Cryptid member executed after it was discovered that he was a Reptilian spy gathering information for a Reptilian invasion. Born: Unknown (Reptilian, born on the home planet)
