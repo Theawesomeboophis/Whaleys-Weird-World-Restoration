@@ -23,7 +23,7 @@
  {
     "id": "mon_entomber",
     "type": "MONSTER",
-    "name": { "str": "Entomber" }, { "str_pl": "Entombers" }
+    "name": { "str": "Entomber" },
     "description": "This Giant Blob Looks friendly, but do not underestimate it, this is an entomber, it is on the CIA's Most Dangerous Creature List.",
     "default_faction": "entomber",
     "species": [ "UNKNOWN" ],
