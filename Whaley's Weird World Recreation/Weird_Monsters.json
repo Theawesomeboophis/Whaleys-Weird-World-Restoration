@@ -26,7 +26,7 @@
     "name": { "str": "Entomber" },
     "description": "This Giant Blob Looks friendly, but do not underestimate it, this is an entomber, it is on the CIA's Most Dangerous Creature List.",
     "default_faction": "entomber",
-    "species": [ "UNKNOWN" ],
+    "species": [ "WEIRD" ],
     "volume": "200 ml",
     "weight": "100 g",
     "hp": 28,
@@ -42,5 +42,28 @@
     "harvest": "exempt",
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON" ]
+  },
+   {
+    "id": "mon_bloodbeast",
+    "type": "MONSTER",
+    "name": { "str": "Blood Beast" },
+    "description": "This Weird Mass of Blood and flesh was created by the CIA as a failed experiment to clone people.",
+    "default_faction": "bloodbeast",
+    "species": [ "WEIRD" ],
+    "volume": "300 ml",
+    "weight": "200 g",
+    "hp": 47,
+    "speed": 200,
+    "melee_skill": 6,
+    "melee_dice": 6,
+    "melee_dice_sides": 4,
+    "material": [ "flesh" ],
+    "symbol": "b",
+    "color": "red_cyan",
+    "aggression": 100,
+    "morale": 7,
+    "harvest": "exempt",
+    "death_function": [ "NORMAL" ],
+    "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON", "NO_BREATHE" ]
   }
 ]
