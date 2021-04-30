@@ -112,5 +112,5 @@
     "harvest": "bloodworm",
     "death_function": [ "NORMAL" ],
     "flags": [ "ATTACKMON", "NO_BREATHE", "DIGS", "HARDTOSHOOT", "REVIVES", "SWARMS", "SUNDEATH", "FIREPROOF", "BADVENOM" ]
-  },  
+  }  
 ]
