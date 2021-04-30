@@ -6,5 +6,9 @@
   {
     "type": "MONSTER_FACTION",
     "name": "gas",
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "worm_mass",
   }
 ]
