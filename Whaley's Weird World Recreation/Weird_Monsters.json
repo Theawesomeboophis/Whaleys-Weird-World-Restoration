@@ -18,7 +18,7 @@
     "harvest": "exempt",
     "fear_triggers": [ "PLAYER_CLOSE" ],
     "death_function": [ "SMOKEBURST" ],
-    "flags": [ "NO_BREATHE", "POISON" ]
+    "flags": [ "NO_BREATHE", "POISON", "VENOM" ]
   },
   {
     "id": "mon_entomber",
@@ -65,5 +65,28 @@
     "harvest": "exempt",
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON", "NO_BREATHE" ]
+  },
+   {
+    "id": "mon_worm_mass",
+    "type": "MONSTER",
+    "name": { "str": "Worm Mass" },
+    "description": "This strange pile of worms seems intertwined and moves as one entitiy, it's strange wiggling is unsettling, to say the least.",
+    "default_faction": "worm_mass",
+    "species": [ "WEIRD" ],
+    "volume": "43 ml",
+    "weight": "3.7 g",
+    "hp": 43,
+    "speed": 240,
+    "melee_skill": 6,
+    "melee_dice": 6,
+    "melee_dice_sides": 4,
+    "material": [ "flesh" ],
+    "symbol": "w",
+    "color": "pink",
+    "aggression": 12,
+    "morale": 7,
+    "harvest": "exempt",
+    "death_function": [ "NORMAL" ],
+    "flags": [ "ATTACKMON", "NO_BREATHE" ]
   }
 ]
