@@ -90,7 +90,7 @@
     "flags": [ "ATTACKMON", "NO_BREATHE" ]
   },
  {  
-   "//": " This is meant to be a endgame monster, if you encounter this during early game, RUN!"
+   "//": " This is meant to be a endgame monster, if you encounter this during early game, RUN!",
     "id": "mon_bloodworm",
     "type": "MONSTER",
     "name": { "str": "Blood Worm" },
