@@ -3,7 +3,7 @@ A Recreation of the Whaley's Weird World Mod for Cataclysm DDA. Once Things from
 
 Links to various other things
 
-Original Whaley's Weird World: https://www.reddit.com/r/cataclysmdda/comments/984r3h/whaleys_weird_world_mod_aliens_cryptids_and_govt/
+Original Whaley's Weird World (Download Link doesn't work): https://www.reddit.com/r/cataclysmdda/comments/984r3h/whaleys_weird_world_mod_aliens_cryptids_and_govt/
 
 UndeadPeopleTileset(Most Complete Tileset for Cataclysm- Use it for tileset support): https://github.com/SomeDeadGuy/UndeadPeopleTileset
 
