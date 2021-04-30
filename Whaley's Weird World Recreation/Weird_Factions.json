@@ -1,1 +1,10 @@
-
+[
+  {
+    "type": "MONSTER_FACTION",
+    "name": "entomber",
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "gas",
+  }
+  ]
