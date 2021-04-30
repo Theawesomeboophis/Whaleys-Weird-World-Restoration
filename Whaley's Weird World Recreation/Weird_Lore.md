@@ -49,11 +49,17 @@ PROJECT CRYPTID
 Special CIA task force trained to catalogue and capture any cryptids they find. Usually armed with assault rifles and wear hazmat suits to avoid contact with The Grey Plague. Since its founding it has captured over 500 individuals from the listed species. The Leaders of the project have never revealed themselves to the general public.
 
 Known Agents:
+
 Kole Marx (Status: Deceased)
+
 Rex Uilre (Status: Unknown)
+
 Bob Sampson (Status: Deceased)
+
 General John Thornbush (Status: Alive) (Not Operating in New England)
+
 Mary Violet (Status: Alive) (Location Unknown)
+
 Librarian Danny Bookworm (Status: Deceased)
 
 Agent Bios:
