@@ -71,7 +71,7 @@
     "type": "MONSTER",
     "name": { "str": "Worm Mass" },
     "description": "This strange pile of worms seems intertwined and moves as one entitiy, it's strange wiggling is unsettling, to say the least.",
-    "default_faction": "worm_mass",
+    "default_faction": "worm_weird",
     "species": [ "WEIRD" ],
     "volume": "43 ml",
     "weight": "3.7 g",
@@ -88,5 +88,28 @@
     "harvest": "exempt",
     "death_function": [ "NORMAL" ],
     "flags": [ "ATTACKMON", "NO_BREATHE" ]
-  }
+  },
+ {  "//": " This is meant to be a endgame monster, if you encounter this during early game, RUN!"
+    "id": "mon_bloodworm",
+    "type": "MONSTER",
+    "name": { "str": "Blood Worm" },
+    "description": "This giant red worm looks as if it is covered in blood, it is very dangerous to the unsuspecting survivor, it would be unstoppable if it were not a worm, luckily sunlight kills it.",
+    "default_faction": "worm_weird",
+    "species": [ "WEIRD" ],
+    "volume": "600 ml",
+    "weight": "1000 g",
+    "hp": 430,
+    "speed": 324,
+    "melee_skill": 7,
+    "melee_dice": 8,
+    "melee_dice_sides": 5,
+    "material": [ "flesh" ],
+    "symbol": "b",
+    "color": "dark_red",
+    "aggression": 104,
+    "morale": 8,
+    "harvest": "bloodworm",
+    "death_function": [ "NORMAL" ],
+    "flags": [ "ATTACKMON", "NO_BREATHE", "DIGS", "HARDTOSHOOT", "REVIVES", "SWARMS", "SUNDEATH", "FIREPROOF", "BADVENOM" ]
+  },  
 ]
