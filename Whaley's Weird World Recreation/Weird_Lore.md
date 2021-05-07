@@ -76,3 +76,9 @@ Mary Violet- Bounty Hunter for the Illuminati hired to supress the truth, Became
 General John Thornbush: A mysterious member of the military whose affiliation with Project Cryptid is unknown, currently operating in Canada, possibly one of the members of the mysterious group known as The Five, the five leaders of Project Cryptid whose identities are unknown even within the CIA. Born: 1992
 
 Librarian Danny Bookworm: Librarian of Project Cryptid, legally changed his last name to Bookworm due to his love of books, former guardian of the creature catalogues, books collecting the names of all known cryptids, died of The Grey Plague during a outbreak. Born: 1972
+
+THE GREY PLAGUE
+
+The Grey Plague is a rare disease caused by contact with Greys, if left untreated it can lead to heart attacks, crushing of the spine, spontaneous combustion, vomiting blood, and death. Symptoms include grey skin, loss of hair, strange behavior and extreme weight loss. This disease leads to humans transforming into Greys, other species are effected also. This disease is incurable and highly contagious. Avoid contact with Greys if possible. If infected specimens enter your area, lock your doors and arm yourself. Citizens living in the New England area have claimed they are immune, although these claims are unproven at the current date, please note that although New England residents may possibly be immune to The Grey Plague, this has not stopped infected individuals from migrating to that area.
+
+
