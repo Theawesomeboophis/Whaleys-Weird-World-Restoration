@@ -43,7 +43,7 @@
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON" ]
   },
-   {
+  {
     "id": "mon_bloodbeast",
     "type": "MONSTER",
     "name": { "str": "Blood Beast" },
@@ -66,7 +66,7 @@
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON", "NO_BREATHE" ]
   },
-   {
+  {
     "id": "mon_worm_mass",
     "type": "MONSTER",
     "name": { "str": "Worm Mass" },
@@ -89,8 +89,8 @@
     "death_function": [ "NORMAL" ],
     "flags": [ "ATTACKMON", "NO_BREATHE" ]
   },
- {  
-   "//": " This is meant to be a endgame monster, if you encounter this during early game, RUN!",
+  {
+    "//": " This is meant to be a endgame monster, if you encounter this during early game, RUN!",
     "id": "mon_bloodworm",
     "type": "MONSTER",
     "name": { "str": "Blood Worm" },
@@ -112,5 +112,28 @@
     "harvest": "bloodworm",
     "death_function": [ "NORMAL" ],
     "flags": [ "ATTACKMON", "NO_BREATHE", "DIGS", "HARDTOSHOOT", "REVIVES", "SWARMS", "SUNDEATH", "FIREPROOF", "BADVENOM" ]
-  }  
+  },
+  {
+    "id": "mon_grey_grunt",
+    "type": "MONSTER",
+    "name": { "str": "Grey Grunt" },
+    "description": "This alien creature has crashed here in a spaceship, it seems to have adapted to Earth's atmosphere, this one has no weapons and seems to be cannon fodder for the larger forces.",
+    "default_faction": "greys",
+    "species": [ "GREY" ],
+    "volume": "100 ml",
+    "weight": "212 g",
+    "hp": 123,
+    "speed": 34,
+    "melee_skill": 4,
+    "melee_dice": 2,
+    "melee_dice_sides": 1,
+    "material": [ "flesh" ],
+    "symbol": "g",
+    "color": "grey",
+    "aggression": 56,
+    "morale": 6,
+    "harvest": "grey_grunt",
+    "death_function": [ "NORMAL" ],
+    "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON" ]
+  }
 ]
