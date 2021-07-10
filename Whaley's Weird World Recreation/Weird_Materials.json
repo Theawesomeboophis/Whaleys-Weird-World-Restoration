@@ -1,1 +1,24 @@
-
+[
+{
+    "type": "AMMO",
+    "id": "rock_strange",
+    "symbol": "*",
+    "color": "light_gray",
+    "name": { "str": "Strangerock" },
+    "description": " A strange alien stone with sharp edges and a blood red color, it is strangely not heavy at all and easy to carry.",
+    "category": "spare_parts",
+    "material": [ "stone" ],
+    "ammo_type": "rock",
+    "flags": [ "TRADER_AVOID" ],
+    "weight": "10 g",
+    "volume": "90 ml",
+    "longest_side": "8 cm",
+    "bashing": 10,
+    "damage": { "damage_type": "stab", "amount": 9 },
+    "range": 13,
+    "dispersion": 15,
+    "loudness": 5,
+    "to_hit": +4,
+    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
+  }
+]
