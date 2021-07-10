@@ -17,7 +17,7 @@
     "morale": 5,
     "harvest": "exempt",
     "fear_triggers": [ "PLAYER_CLOSE" ],
-    "death_function": [ "SMOKEBURST" ],
+    "death_function": { "effect": { "id": "death_smokeburst", "hit_self": true }, "message": "The %s explodes into a cloud of smoke!" },
     "flags": [ "NO_BREATHE", "POISON", "VENOM" ]
   },
   {
@@ -40,7 +40,6 @@
     "aggression": 100,
     "morale": 6,
     "harvest": "exempt",
-    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON" ]
   },
   {
@@ -63,7 +62,6 @@
     "aggression": 100,
     "morale": 7,
     "harvest": "exempt",
-    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON", "NO_BREATHE" ]
   },
   {
@@ -86,7 +84,6 @@
     "aggression": 12,
     "morale": 7,
     "harvest": "exempt",
-    "death_function": [ "NORMAL" ],
     "flags": [ "ATTACKMON", "NO_BREATHE" ]
   },
   {
@@ -110,7 +107,6 @@
     "aggression": 104,
     "morale": 8,
     "harvest": "bloodworm",
-    "death_function": [ "NORMAL" ],
     "flags": [ "ATTACKMON", "NO_BREATHE", "DIGS", "HARDTOSHOOT", "REVIVES", "SWARMS", "SUNDEATH", "FIREPROOF", "BADVENOM" ]
   },
   {
@@ -133,7 +129,6 @@
     "aggression": 56,
     "morale": 6,
     "harvest": "grey_grunt",
-    "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "ATTACKMON" ]
   }
 ]
