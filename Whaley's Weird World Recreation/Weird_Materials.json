@@ -1,5 +1,5 @@
 [
-{
+  {
     "type": "AMMO",
     "id": "rock_strange",
     "symbol": "*",
@@ -18,7 +18,7 @@
     "range": 13,
     "dispersion": 15,
     "loudness": 5,
-    "to_hit": +4,
+    "to_hit": 4,
     "effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
   }
 ]
