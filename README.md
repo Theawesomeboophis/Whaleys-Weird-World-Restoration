@@ -1,6 +1,7 @@
 # Whaleys-Weird-World-Restoration
 A restoration of Whaley's Weird World Mod for CDDA that will be updated to current experimental, thanks to Napple I have obtained a copy of the original mod and will maintain and expand it to great heights.
-Links to various other things
+
+Links to various other things:
 
 Original Whaley's Weird World (Download Link doesn't work): https://www.reddit.com/r/cataclysmdda/comments/984r3h/whaleys_weird_world_mod_aliens_cryptids_and_govt/
 
